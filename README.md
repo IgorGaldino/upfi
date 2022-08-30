@@ -35,12 +35,12 @@ Inicia um servidor local front-end no endereço [http://localhost:8080](http://l
 $ yarn dev
 ```
 
-
 #### Execução dos testes
 
 Executar os testes com Jest.
 ```console
 $ yarn test
+```
 
 #### Build e gerar os arquivos estáticos (SSG).
 
