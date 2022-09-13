@@ -30,7 +30,7 @@ $ yarn
 
 #### Execução da aplicação front-end local.
 
-Inicia um servidor local front-end no endereço [http://localhost:8080](http://localhost:8080) no browser.
+Inicia um servidor local front-end no endereço [http://localhost:3000](http://localhost:3000) no browser.
 ```console
 $ yarn dev
 ```
@@ -52,7 +52,7 @@ $ yarn build
 
 #### Execução da aplicação a partir build gerada.
 
-Inicia um servidor local front-end no endereço [http://localhost:8080](http://localhost:8080) no browser.
+Inicia um servidor local front-end no endereço [http://localhost:3000](http://localhost:3000) no browser.
 ```console
 $ yarn start
 ```
